@@ -1,7 +1,7 @@
 {
   "name": "aaa",
   "private": true,
-  "version": "3.1.0",
+  "version": "5.0.0-0",
   "author": "所无聊 <2409277719@qq.com>",
   "type": "module",
   "scripts": {
